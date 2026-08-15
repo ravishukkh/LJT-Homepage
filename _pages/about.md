@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junteng Liu"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
